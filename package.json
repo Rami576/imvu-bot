@@ -1,0 +1,13 @@
+{
+  "name": "imvu-bot",
+  "version": "1.0.0",
+  "description": "A JavaScript library for IMVU bot projects",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
